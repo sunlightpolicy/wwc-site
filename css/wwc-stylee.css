@@ -422,7 +422,7 @@ li.li-ec{margin-top:60px;}
 }
 .embedded-content-list .ref{
 	color:#df5530;
-	text-transform:uppercase;
+	text-transform:none;
 	text-decoration:none;
 	font-weight:700;
 	font-family:"futura_md_btbold", Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
