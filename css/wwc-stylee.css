@@ -74,7 +74,7 @@ a{background-color:transparent}
 a:active,a:hover{outline:0}
 p a:hover,p a:active,p a:focus{color:#df5530;}
 
-.maincontent p a{position:relative; text-decoration:none;}
+.maincontent p a{position:relative;}
 /** .maincontent p a:before{
 	z-index:10000;
 	position:absolute;
@@ -146,7 +146,6 @@ ul{
 	list-style-type:none;
 }
 a{
-	text-decoration:none;
 	color:#fff;
 	text-decoration:underline;
 }
