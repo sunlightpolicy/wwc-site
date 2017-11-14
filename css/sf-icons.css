@@ -1,7 +1,7 @@
 @font-face {
     font-family: "sf-icons";
     src: url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.eot");
-    src: url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.eot#iefix") format("embedded-opentype"), url("/web/20170409193833im_/http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.woff") format("woff"), url("/web/20170409193833im_/http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.ttf") format("truetype"), url("/web/20170409193833im_/http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.svg#sf-icons") format("svg");
+    src: url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.eot#iefix") format("embedded-opentype"), url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.woff") format("woff"), url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.ttf") format("truetype"), url("http://d3d1m61yehgiwz.cloudfront.net/sf-icons/0.2/fonts/sf-icons.svg#sf-icons") format("svg");
     font-weight: normal;
     font-style: normal;
 }
